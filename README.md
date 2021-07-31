@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Cloud Developer Tools
+- 🌱 I’m currently learning Rust
+- 📫 There is my [Blog](http://yufeiminds.com/)
+
+[![Yufei Li's GitHub stats](https://github-readme-stats.vercel.app/api?username=yufeiminds)](https://github.com/yufeiminds)
+
+
 <!--
 **yufeiminds/yufeiminds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
