@@ -44,11 +44,11 @@ There are two WeChat official accounts I am publishing:
 | | 喻非梨 | 平台工程洞察 |
 | --- | --- | --- |
 | QR Code| ![](./artwork/qrcode_yufeili.png) | ![](./artwork/qrcode_pecommunity.jpg) |
-| Details | Personal experience sharing | Online magazine edits with @node |
+| Details | Personal experience sharing | Online magazine edits with [@node](https://github.com/node) |
 
 ### Community Organizer
 
-* I had organized the early-stage unofficial [Terraform/Packer Community](https://terraform-china.com/) in China (Stopped maintenance now).
+* I had organized the early-stage unofficial Terraform/Packer community in China (Stopped maintenance now).
 * Organized the Open Source Bazaar in China Open Source Conference 2023 Shanghai.
 * Help my friends to build the China Localized Channel of [Platform Engineering Community](https://platformengineering.org/).
 
